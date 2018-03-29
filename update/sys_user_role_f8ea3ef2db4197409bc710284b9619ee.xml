@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_g3g_sdm_time.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>andrew.robinson@g3g.com</sys_created_by>
+        <sys_created_on>2018-03-28 18:07:36</sys_created_on>
+        <sys_id>f8ea3ef2db4197409bc710284b9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_g3g_sdm_time.user</sys_name>
+        <sys_package display_value="SDM Time card" source="x_g3g_sdm_time">b0ea3af2db4197409bc710284b9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDM Time card">b0ea3af2db4197409bc710284b9619ed</sys_scope>
+        <sys_update_name>sys_user_role_f8ea3ef2db4197409bc710284b9619ee</sys_update_name>
+        <sys_updated_by>andrew.robinson@g3g.com</sys_updated_by>
+        <sys_updated_on>2018-03-28 18:07:36</sys_updated_on>
+    </sys_user_role>
+</record_update>

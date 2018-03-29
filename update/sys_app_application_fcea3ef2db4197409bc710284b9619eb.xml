@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>SDM Time card</name>
+        <order/>
+        <roles>x_g3g_sdm_time.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>andrew.robinson@g3g.com</sys_created_by>
+        <sys_created_on>2018-03-28 18:07:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fcea3ef2db4197409bc710284b9619eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SDM Time card</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SDM Time card" source="x_g3g_sdm_time">b0ea3af2db4197409bc710284b9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDM Time card">b0ea3af2db4197409bc710284b9619ed</sys_scope>
+        <sys_update_name>sys_app_application_fcea3ef2db4197409bc710284b9619eb</sys_update_name>
+        <sys_updated_by>andrew.robinson@g3g.com</sys_updated_by>
+        <sys_updated_on>2018-03-28 18:07:36</sys_updated_on>
+        <title>SDM Time card</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
