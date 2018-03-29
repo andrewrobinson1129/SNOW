@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-03-29 08:53:12">
+<sys_app_application action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+<description/>
+<device_type>browser</device_type>
+<hint/>
+<name>Daily check</name>
+<order>100</order>
+<roles>itil</roles>
+<sys_class_name>sys_app_application</sys_class_name>
+<sys_created_by>admin.alicia</sys_created_by>
+<sys_created_on>2017-12-22 09:10:01</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>b937ae33db0fc300411f2de74b961934</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_name>Managed Basis Services</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_app_application_b937ae33db0fc300411f2de74b961934</sys_update_name>
+<sys_updated_by>admin.rehan</sys_updated_by>
+<sys_updated_on>2018-01-23 21:36:56</sys_updated_on>
+<title>Managed Basis Services</title>
+<view_name/>
+</sys_app_application>
+</unload>
